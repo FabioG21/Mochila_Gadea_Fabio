@@ -1,0 +1,6 @@
+1- Porque algunos lenguajes son multiplataformas y otros no. Java seria un ejemplo que deja 
+ejecutar en cualquier Sistema Op.
+2-VirtualBox es una maquina virtual de Sistema Tipo (II). Porque permite ejecutar sistemas
+ operativos dentro.
+3- Si una maquina virtual se rompe, no afecta a las demás, porque cada maquina virtual es
+ individual a la otra, y esto proporciona un entorno seguro.
